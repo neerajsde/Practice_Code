@@ -9,7 +9,6 @@ Welcome to my practice repository for learning data structures and algorithms! T
 - [Directory Structure](#directory-structure)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -44,7 +43,3 @@ You can explore the code and learn from the implementations. If you want to cont
 ## Contributing
 
 Contributions are welcome! Whether it's fixing a bug, improving an existing implementation, or adding a new algorithm, feel free to contribute. Please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
